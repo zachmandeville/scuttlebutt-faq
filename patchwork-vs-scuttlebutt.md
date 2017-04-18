@@ -1,8 +1,8 @@
 ---
 related:
-	- patchwork-and-patchbay.md
-	- moving-ssb-apps.md
-	- multiple-devices.md
+    - patchwork-and-patchbay.md
+    - moving-ssb-apps.md
+    - multiple-devices.md
 ---
 
 * Scuttlebutt is the general idea or concept around all of this.  It's definition is loose, and is often just meant to refer to this entire _thing_ itself, in the way someone refers to "the internet" or "this afternoon".  In this case, the _thing_ is the idea of a network organized in a way similar to an actual social graph, which communicates messages in a way similar to gossip.
