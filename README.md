@@ -2,4 +2,3 @@
 
 This is a work in progress, so  please feel free to add and help! Askk a question,refine an answer, or submit a question _and_ answer.  You can do all of these through a change  request.
 
-Click `read` to get started!
