@@ -1,1 +1,1 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+Welcome to the Scuttlebutt FAQ!  This is a work in progress, and please feel free to ask a question by making a pull request, refine an answer, or submit a question _and_ answer.  You can do all of these through a pull request.
