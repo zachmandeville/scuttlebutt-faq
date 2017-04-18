@@ -1,1 +1,5 @@
-Welcome to the Scuttlebutt FAQ!  This is a work in progress, and please feel free to ask a question by making a pull request, refine an answer, or submit a question _and_ answer.  You can do all of these through a pull request.
+## Welcome to the Scuttlebutt FAQ!  
+
+This is a work in progress, so  please feel free to add and help! Askk a question,refine an answer, or submit a question _and_ answer.  You can do all of these through a change  request.
+
+Click `read` to get started!
