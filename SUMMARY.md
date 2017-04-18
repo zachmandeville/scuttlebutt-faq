@@ -7,7 +7,7 @@
 * [Can I use scuttlebutt on different devices, but maintain the same identity? For example: updating my Patchwork feed from my home or  work computer?](multiple-devices.md)
 * [I've read that SSB  works through  gossip. Is gossip some esoteric network topology or do you mean like actual  human gossip?](gossip.md)
 * [What are channels and how do they work?](channels.md)
-* [Are Channels Sorted in Any Order?](#channel-sort.md)
+* [Are Channels Sorted in Any Order?](channel-sort.md)
 
 
 
