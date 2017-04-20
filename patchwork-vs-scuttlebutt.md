@@ -5,7 +5,7 @@ related:
     - multiple-devices.md
 ---
 
-* Scuttlebutt is the general idea or concept around all of this.  It's definition is loose, and is often just meant to refer to this entire _thing_ itself, in the way someone refers to "the internet" or "this afternoon".  In this case, the _thing_ is the idea of a network organized in a way similar to an actual social graph, which communicates messages in a way similar to gossip.
+* Scuttlebutt is the general idea or concept around all of this.  It's definition is loose, and is often just meant to refer to this entire _thing_, in the way someone refers to "the internet" or "this afternoon".  In this case, the _thing_ is the idea of a network organized similar to an actual social graph, which communicates messages in a way similar to gossip.
 
 * SSB stands for SecureScuttleButt.  It is the protocol through which we can exchange messages, read each others' feeds, and make friends.  You could compare it to [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol), which is an underlying protocol for how devices connect to one another on the internet.  TCP is a network protocol, though, while SSB is a local protocol.  This means it doesn't require any sort of  internet connection to work.
 
@@ -17,5 +17,3 @@ related:
 	- patchbay: pickup truck
 	- patchfoo: jeep
 	- git-ssb: digger.
-
-[source](%zWZfJ3nLimtt1Sm+RU7+lp0p0BDJYENFEXQWSBs5lTM=.sha256)
