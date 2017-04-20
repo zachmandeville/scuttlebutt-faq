@@ -5,6 +5,7 @@ Since you are holding the entire, evergrowing log of your friend network it coul
 For a better example of size, we can look at two users' .ssb folders: @keks and @cryptix.
 
 Here is @keks folder:
+
 	2.5G  ~/.ssb/blobs
 	7.5K  ~/.ssb/blobs_push
 	512 ~/.ssb/config
@@ -19,6 +20,7 @@ Here is @keks folder:
 	1.0K  ~/.ssb/secret`
 
 And here is @cryptix's:
+
 	32K   ./blobs_push
 	9.5M  ./query
 	28M   ./links
