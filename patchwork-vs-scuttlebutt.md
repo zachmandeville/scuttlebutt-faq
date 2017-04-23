@@ -20,5 +20,5 @@ related:
 
 ----
 **Sources**
-* The answer is compiled from multiple posts from [this thread.](https://viewer.scuttlebot.io/%25m8%2B25i3i5LCRioA%2FCAqARVb0HNA6TTdvi4B0CxBd8eo%3D.sha25)  Shoutout to @dominic for the car analogy.
+* The answer is compiled from multiple posts from [this thread.](https://viewer.scuttlebot.io/%25m8%2B25i3i5LCRioA%2FCAqARVb0HNA6TTdvi4B0CxBd8eo%3D.sha256)  Shoutout to @dominic for the car analogy.
 

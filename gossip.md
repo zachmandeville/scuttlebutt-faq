@@ -1,9 +1,9 @@
-----
+---
 related:
-   - patchwork-vs-scuttlebutt.md
-   - pub.md
-   - resources.md
-----
+   -patchwork-vs-scuttlebutt.md
+   -pub.md
+   -resources.md
+---
 
 Both!
 
@@ -15,5 +15,5 @@ There are some great pages posted on scuttlebutt.nz that go into gossip as a pro
 ----
 
 **Sources**
-* *[Answer taken from section of this thread.  Shoutouts to @ferrouswheel for asking the question.](*[(https://viewer.scuttlebot.io/%25m8%2B25i3i5LCRioA%2FCAqARVb0HNA6TTdvi4B0CxBd8eo%3D.sha256)*
+* Answer taken from section of [this thread.](https://viewer.scuttlebot.io/%25m8%2B25i3i5LCRioA%2FCAqARVb0HNA6TTdvi4B0CxBd8eo%3D.sha256) Shoutouts to @ferrouswheel for asking the question! 
 

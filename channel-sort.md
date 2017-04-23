@@ -1,9 +1,9 @@
-----
+---
 related:
    - channels.md
    - channel-find.md
    - channel-start.md
-----
+---
 
 They are sorted by recent activity, favoring subscribed channels first.
 

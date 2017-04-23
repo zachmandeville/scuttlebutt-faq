@@ -1,9 +1,9 @@
-----
+---
 related:
    - faq-credits.md
    - resources.md
    - patchwork-vs-scuttlebutt.md
-----
+---
 
 You can help with the FAQ by asking a question, refining one of my answers, or submitting an entire question and answer.
 
