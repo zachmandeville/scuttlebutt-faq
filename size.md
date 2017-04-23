@@ -31,3 +31,7 @@ And here is @cryptix's:
 	1.9G .
 
 In both cases, blobs take up significant space.  If this is a concern, you can delete the blobs folder.  Patchwork will fetch any blobs needed the next time you log on--assuming they still live in the folders of your friends.  If you are the last person to have held onto the blob with the image of a cat falling asleep inside a cereal box, and then you delete that blob folder...that image is gone from the scuttleverse.  All you have now are the memories (though let's be honest, you've probably saved that picture somewhere else cos it sounds incredible.)
+
+----
+**Sources**
+* Answer compiled from [this thread](https://viewer.scuttlebot.io/%25bUEQtn85jtL8Vxjup4sS%2F7wcaswS4fThUPVH7G5IvjU%3D.sha256) and [this thread](https://viewer.scuttlebot.io/%25Ayi7UUbJnIZ12S%2FgbHof60oHBlmjdrv7TUyFCq5cOTQ%3D.sha256)  Shoutouts to @cryptix and @keks for awesome answers.

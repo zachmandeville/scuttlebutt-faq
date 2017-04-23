@@ -12,7 +12,10 @@ It lives on your computer, your friends computers, and your friends' friends com
 
 The messages you've sent live in a leveldb database within this folder (specifically at `.ssb/db`.  They are stored in binary form and so are pure gibberish if you try to read them directly from that folder.     
 
-*Additional Resources*
+**Additional Resources**
 
 - If the command line and terminals are new to you, here is a great in-depth introduction:
 [Taming the Terminal](https://www.bartbusschots.ie/s/blog/taming-the-terminal/)
+
+**Sources**
+* Answer compiled mostly from experience and [this thread.](://viewer.scuttlebot.io/%25bUEQtn85jtL8Vxjup4sS%2F7wcaswS4fThUPVH7G5IvjU%3D.sha256)  Shoutouts to @cryptix for the answer on encryption and the leveldb database.
