@@ -1,9 +1,10 @@
+# How are channels sorted?
+
+*They seem to be listed randomly when I search.  Is there any rhyme or reason to this?*
+
 ---
-related:
-   - channels.md
-   - channel-find.md
-   - channel-start.md
----
+
+There is!
 
 They are sorted by recent activity, favoring subscribed channels first.
 

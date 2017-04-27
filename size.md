@@ -1,6 +1,10 @@
+# How much space will scuttlebutt take up on my computer?
+
+---
+
 This depends on how long you've been on scuttlebutt, how many friends you have, and how many high-quality kitten pics you send each other.
 
-Since you are holding the entire, evergrowing log of your friend network it could grow rather large over time.  The biggest storage space would be in your blobs folder, since that is holding all the attachments(kitten pics) sent to one another.   
+Since you are holding the entire, evergrowing log of your friend network, it could grow rather large over time.  The biggest storage space would be in your blobs folder, since that is holding all the attachments(kitten pics) sent to one another.   
 
 For a better example of size, we can look at two users' .ssb folders: @keks and @cryptix.
 

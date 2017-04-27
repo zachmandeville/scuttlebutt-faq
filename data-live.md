@@ -1,9 +1,7 @@
+# Where does all my data live?
+
 ---
-related:
-   - size.md
-   - delete.md
-   - moving-ssb-apps.md
----
+
 It lives on your computer, your friends computers, and your friends' friends computers.
 
  When you connect to a friend over an application like Patchwork, you are syncing the diaries that live on your computers, and making sure they hold the same relevant information. This helps explain how no internet connection is needed: as long as there is _any_ way for your two computers to talk to each other, you can catch up on each other's feed.

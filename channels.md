@@ -1,6 +1,6 @@
----
-related:
-    - channel-sort.md
+# What Are channels?
+
+*And also: how do they work?*
 
 ---
 
