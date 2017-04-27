@@ -1,4 +1,3 @@
-* [Summary](README.MD)
 * [ Basics](basics.md)
   - [What is the difference between Patchwork and Scuttlebutt?](patchwork-vs-scuttlebutt.md)
   - [What is a pub?](pub.md)
