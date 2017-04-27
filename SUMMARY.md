@@ -1,27 +1,23 @@
-# Summary
-
-## Basics
-* [What is the difference between Patchwork and Scuttlebutt?](patchwork-vs-scuttlebutt.md)
-* [What is a pub?](pub.md)
-* [I've read that SSB  works through  gossip. Is gossip some esoteric network topology or do you mean actual human gossip?](gossip.md)
-* [Where does all my data live?](data-live.md)
-* [How much space will scuttlebutt take up on my computer?](size.md)
-* [What happens if I unfollowed all my friends and deleted  my .ssb folder? Would all my messages disappear from the scuttleverse?](delete.md) 
-
-## Applications
-* [If I am on Patchwork, can I read messages my friends post on Patchbay?](patchwork-and-patchbay.md)
-* [If I decide to move from one Scuttlebutt app to another, can I keep my feed and history?](moving-ssb-apps.md)
-* [Can I use scuttlebutt on different devices, but maintain the same identity? (For example: updating my Patchwork feed from my home or  work computer?)](multiple-devices.md)
-
-## Channels
-* [What are channels and how do they work?](channels.md)
-* [Are Channels sorted in any order?](channel-sort.md) 
-* [If I subscribe to a channel would I see messages from whoever wrote in that channel?](channel-messages.md)
-* [How do I find a channel?](channel-find.md)
-* [How do I start a channel?](channel-start.md)
-
-## Concepts
-* [Are there any good resources about the origins of Scuttlebutt?](resources.md)
-* [All of this seems really cool?](cool.md)
-* [Who is writing this FAQ?](faq-credits.md)
-* [How can I help?](help.md)
+* [Summary](README.MD)
+* [ Basics](basics.md)
+  - [What is the difference between Patchwork and Scuttlebutt?](patchwork-vs-scuttlebutt.md)
+  - [What is a pub?](pub.md)
+  - [What do you mean when you say SSB works with Gossip?](gossip.md)
+  - [Where does all my data live?](data-live.md)
+  - [How much space will scuttlebutt take up on my computer?](size.md)
+  - [What happens if I unfollowed all my friends and deleted  my .ssb folder? Would all my messages disappear from the scuttleverse?](delete.md) 
+* [Applications](applications.md)
+  - [If I am on Patchwork, can I read messages my friends post on Patchbay?](patchwork-and-patchbay.md)
+  - [If I decide to move from one Scuttlebutt app to another, can I keep my feed and history?](moving-ssb-apps.md)
+  - [Can I use scuttlebutt on different devices, but maintain the same identity? (For example: updating my Patchwork feed from my home or  work computer?)](multiple-devices.md)
+* [Channels](channels-index.md)
+  - [What are channels and how do they work?](channels.md)
+  - [Are Channels sorted in any order?](channel-sort.md) 
+  - [If I subscribe to a channel would I see messages from whoever wrote in that channel?](channel-messages.md)
+  - [How do I find a channel?](channel-find.md)
+  - [How do I start a channel?](channel-start.md)
+* [Concepts](concepts.md)
+  - [Are there any good resources about the origins of Scuttlebutt?](resources.md)
+  - [All of this seems really cool?](cool.md)
+  - [Who is writing this FAQ?](faq-credits.md)
+  - [How can I help?](help.md)
