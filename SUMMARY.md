@@ -1,5 +1,5 @@
 * [ Basics](basics.md)
-  - [What is Patchwork or Scuttlebutt?](patchwork-vs-scuttlebutt.md)
+  - [What is Patchwork and Scuttlebutt?](patchwork-vs-scuttlebutt.md)
   - [What is a pub?](pub.md)
   - [Scuttlebutt  works through gossip?](gossip.md)
   - [Where does all my data live?](data-live.md)
