@@ -1,6 +1,6 @@
 # What Is the Difference Between Patchwork and Scuttlebutt?
 
-*And what is patchbay, and ssb, and every other odd term I've heard around Scuttlebutt?*
+*And what is patchbay, and ssb, and every other mysterious term I've been hearing?*
 
 ---
 
