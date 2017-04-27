@@ -1,3 +1,6 @@
 {
     "plugins": [ "theme-faq" ]
 }
+{
+    "plugins": [collapsible-menu]
+}
