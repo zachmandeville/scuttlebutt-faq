@@ -1,5 +1,5 @@
 ## Welcome to the Scuttlebutt FAQ!  
-![http://scuttlebot.io/img/hermies-256.png]
+![The Mascot of the New Decentralized Web](http://scuttlebot.io/img/hermies-256.png)
 
 This page is to help you understand Scuttlebutt, ssb, and all the apps running in the scuttleverse.  Click on any of the sections to your left to get started, or just use the search bar!
 
