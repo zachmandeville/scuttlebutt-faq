@@ -1,0 +1,19 @@
+
+.book .summary li b {
+  display: none;
+}
+
+.book .book-summary ul.summary li a.gitbook-link {
+  display: none;
+}
+
+.book .book-summary .summary .chapter .chapter .chapter a {
+  font-weight: 300;
+}
+.summary .custom-link {
+  display: none;
+}
+
+nav .summary .articles .chapter a {
+  white-space: normal;
+}
